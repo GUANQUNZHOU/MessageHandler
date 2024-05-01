@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3epug3TG+KGvBIGDR/qhQ9b1LR0Ljj3HDSK13MTbX06fxikUzUkLliEh9x/qbAyZ+x0BObSHWraJ6KTTzg+BhQ==",
+  "success": true,
+  "projectFilePath": "/Users/guanqunz/Downloads/MyMessageService/Messages/Messages.csproj",
+  "expectedPackageFiles": [
+    "/Users/guanqunz/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/guanqunz/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/guanqunz/.nuget/packages/nservicebus/9.0.0/nservicebus.9.0.0.nupkg.sha512",
+    "/Users/guanqunz/.nuget/packages/nservicebus.messageinterfaces/1.0.0/nservicebus.messageinterfaces.1.0.0.nupkg.sha512",
+    "/Users/guanqunz/.nuget/packages/system.formats.asn1/8.0.0/system.formats.asn1.8.0.0.nupkg.sha512",
+    "/Users/guanqunz/.nuget/packages/system.security.cryptography.pkcs/8.0.0/system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
+    "/Users/guanqunz/.nuget/packages/system.security.cryptography.xml/8.0.0/system.security.cryptography.xml.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
