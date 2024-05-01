@@ -1,0 +1,28 @@
+﻿2024-05-01 16:48:22.660 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/MyWorkerService/bin/Debug/net8.0/' with level Info
+2024-05-01 16:48:23.030 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-01 16:49:14.337 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/MyWorkerService/bin/Debug/net8.0/' with level Info
+2024-05-01 16:49:14.706 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-01 16:49:19.864 INFO  Initiating shutdown.
+2024-05-01 16:49:19.874 INFO  Shutdown complete.
+2024-05-01 16:50:29.153 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/MyWorkerService/bin/Debug/net8.0/' with level Info
+2024-05-01 16:50:29.520 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-01 16:50:38.314 INFO  Received PlaceOrder, OrderId = 75085f01-ab72-4f35-ad40-42a809a0cf4a
+2024-05-01 16:55:13.070 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/MyWorkerService/bin/Debug/net8.0/' with level Info
+2024-05-01 16:55:13.442 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-01 16:58:53.517 INFO  Received PlaceOrder, OrderId = ed80e9eb-faf2-49e7-8ec6-0866b91b7c54
+2024-05-01 16:58:58.578 INFO  Initiating shutdown.
+2024-05-01 16:58:58.585 INFO  Shutdown complete.
+2024-05-01 17:05:04.209 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/MyWorkerService/bin/Debug/net8.0/' with level Info
+2024-05-01 17:05:04.579 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-01 17:05:10.461 INFO  Received PlaceOrder, OrderId = 3d2b27f0-651c-41fd-9ab3-1e4a2770d4e2
+2024-05-01 17:05:12.450 INFO  Received PlaceOrder, OrderId = c31a3f73-cbe6-45f7-964c-af5338538539
+2024-05-01 17:06:52.375 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/MyWorkerService/bin/Debug/net8.0/' with level Info
+2024-05-01 17:06:52.735 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-01 17:06:54.769 INFO  Received PlaceOrder, OrderId = 871570a4-2648-47de-86a5-dce399187eac
+2024-05-01 17:06:55.931 INFO  Received PlaceOrder, OrderId = c23b9eaf-b138-4084-a5dc-01c60b05ee1e
+2024-05-01 17:06:56.468 INFO  Initiating shutdown.
+2024-05-01 17:06:56.473 INFO  Shutdown complete.
+2024-05-01 17:07:31.404 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/MyWorkerService/bin/Debug/net8.0/' with level Info
+2024-05-01 17:07:31.767 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-01 17:07:34.452 INFO  Received PlaceOrder, OrderId = fa5363e9-209c-4b26-87a6-b321f1c44273
+2024-05-01 17:07:51.736 INFO  Received PlaceOrder, OrderId = 2b9079c7-6344-4446-9017-d2d27573ac71

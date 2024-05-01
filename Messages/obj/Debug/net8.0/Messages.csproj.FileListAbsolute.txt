@@ -1,0 +1,13 @@
+/Users/guanqunz/Downloads/MyMessageService/Messages/bin/Debug/net8.0/Messages.deps.json
+/Users/guanqunz/Downloads/MyMessageService/Messages/bin/Debug/net8.0/Messages.dll
+/Users/guanqunz/Downloads/MyMessageService/Messages/bin/Debug/net8.0/Messages.pdb
+/Users/guanqunz/Downloads/MyMessageService/Messages/obj/Debug/net8.0/Messages.csproj.AssemblyReference.cache
+/Users/guanqunz/Downloads/MyMessageService/Messages/obj/Debug/net8.0/Messages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guanqunz/Downloads/MyMessageService/Messages/obj/Debug/net8.0/Messages.AssemblyInfoInputs.cache
+/Users/guanqunz/Downloads/MyMessageService/Messages/obj/Debug/net8.0/Messages.AssemblyInfo.cs
+/Users/guanqunz/Downloads/MyMessageService/Messages/obj/Debug/net8.0/Messages.csproj.CoreCompileInputs.cache
+/Users/guanqunz/Downloads/MyMessageService/Messages/obj/Debug/net8.0/Messages.sourcelink.json
+/Users/guanqunz/Downloads/MyMessageService/Messages/obj/Debug/net8.0/Messages.dll
+/Users/guanqunz/Downloads/MyMessageService/Messages/obj/Debug/net8.0/refint/Messages.dll
+/Users/guanqunz/Downloads/MyMessageService/Messages/obj/Debug/net8.0/Messages.pdb
+/Users/guanqunz/Downloads/MyMessageService/Messages/obj/Debug/net8.0/ref/Messages.dll
