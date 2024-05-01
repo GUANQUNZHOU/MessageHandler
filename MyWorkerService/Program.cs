@@ -50,6 +50,7 @@ internal static class Program
         var endpointConfiguration = new EndpointConfiguration("ClientUI");
         endpointConfiguration.UseSerialization<SystemJsonSerializer>();
         var transportExtensions = endpointConfiguration.UseTransport<LearningTransport>();
+        var routingSettings = transportExtensions.Routing();
         var endpointInstance = await Endpoint.Start(endpointConfiguration);
 
 // Replace with:

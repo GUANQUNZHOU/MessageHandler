@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/guanqunz/Downloads/MyMessageService/Sales/Sales.csproj": {}
+  },
+  "projects": {
+    "/Users/guanqunz/Downloads/MyMessageService/Messages/Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guanqunz/Downloads/MyMessageService/Messages/Messages.csproj",
+        "projectName": "Messages",
+        "projectPath": "/Users/guanqunz/Downloads/MyMessageService/Messages/Messages.csproj",
+        "packagesPath": "/Users/guanqunz/.nuget/packages/",
+        "outputPath": "/Users/guanqunz/Downloads/MyMessageService/Messages/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guanqunz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NServiceBus": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/guanqunz/Downloads/MyMessageService/Sales/Sales.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guanqunz/Downloads/MyMessageService/Sales/Sales.csproj",
+        "projectName": "Sales",
+        "projectPath": "/Users/guanqunz/Downloads/MyMessageService/Sales/Sales.csproj",
+        "packagesPath": "/Users/guanqunz/.nuget/packages/",
+        "outputPath": "/Users/guanqunz/Downloads/MyMessageService/Sales/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guanqunz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/guanqunz/Downloads/MyMessageService/Messages/Messages.csproj": {
+                "projectPath": "/Users/guanqunz/Downloads/MyMessageService/Messages/Messages.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NServiceBus": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

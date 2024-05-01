@@ -1,0 +1,12 @@
+﻿2024-05-01 19:08:05.871 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/Sales/bin/Debug/net8.0/' with level Info
+2024-05-01 19:08:06.230 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-01 19:08:08.537 INFO  Initiating shutdown.
+2024-05-01 19:08:08.544 INFO  Shutdown complete.
+2024-05-01 19:10:29.122 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/Sales/bin/Debug/net8.0/' with level Info
+2024-05-01 19:10:29.485 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-01 19:10:31.774 INFO  Initiating shutdown.
+2024-05-01 19:10:31.783 INFO  Shutdown complete.
+2024-05-01 19:15:20.490 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/Sales/bin/Debug/net8.0/' with level Info
+2024-05-01 19:15:20.852 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-01 19:16:32.382 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/Sales/bin/Debug/net8.0/' with level Info
+2024-05-01 19:16:32.752 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.

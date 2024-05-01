@@ -1,7 +1,7 @@
 using Messages.Models;
 using NServiceBus.Logging;
 
-namespace MyWorkerService.Handlers;
+namespace Sales.Handlers;
 
 public class OrderHandlers: IHandleMessages<PlaceOrder>
 {
