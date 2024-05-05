@@ -1440,7 +1440,7 @@
     "ProcessorCount": 10,
     "Is64BitProcess": true,
     "CLRVersion": "8.0.0",
-    "WorkingSet": 93028352,
+    "WorkingSet": 91734016,
     "SystemPageSize": 16384,
     "HostName": "guanqundeMacBook-Pro.local",
     "UserName": "guanqunz",

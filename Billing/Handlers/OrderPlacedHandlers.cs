@@ -11,7 +11,7 @@ public class OrderPlacedHandlers:IHandleMessages<OrderPlaced>
         Log.Info($"Received OrderPlaced, OrderId = {message.OrderId} - Charging credit card...");
         var orderBilled = new OrderBilled()
         {
-            OrderId = Guid.NewGuid().ToString()
+            OrderId = message.OrderId
         };
         return context.Publish(orderBilled);
     }

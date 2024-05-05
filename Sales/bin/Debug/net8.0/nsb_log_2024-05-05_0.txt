@@ -5,3 +5,9 @@
 2024-05-05 11:33:57.101 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
 2024-05-05 11:34:08.288 INFO  Received PlaceOrder, OrderId = 86047550-3763-4ce1-8d61-77b47f65eb18
 2024-05-05 11:34:29.512 INFO  Received PlaceOrder, OrderId = 6a0c74e0-8460-40b9-a279-be1d38bbac73
+2024-05-05 11:42:33.787 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/Sales/bin/Debug/net8.0/' with level Info
+2024-05-05 11:42:34.159 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-05 11:42:42.965 INFO  Received PlaceOrder, OrderId = 882ccfc9-a3ff-4d21-8ea8-22d2049606ec
+2024-05-05 11:43:56.393 INFO  Received PlaceOrder, OrderId = 5439771a-9951-4b8f-971e-6ff3725b03b7
+2024-05-05 11:44:16.486 INFO  Received PlaceOrder, OrderId = 84815cf0-575f-4b9d-9596-20500c2de969
+2024-05-05 11:45:08.011 INFO  Received PlaceOrder, OrderId = 1d094896-0aa5-47d6-a6cb-7c057587dbfc
