@@ -1228,7 +1228,7 @@
     "ProcessorCount": 10,
     "Is64BitProcess": true,
     "CLRVersion": "8.0.0",
-    "WorkingSet": 86933504,
+    "WorkingSet": 91291648,
     "SystemPageSize": 16384,
     "HostName": "guanqundeMacBook-Pro.local",
     "UserName": "guanqunz",
@@ -1254,7 +1254,7 @@
     ],
     "NumberOfMessagesFoundAtStartup": 1,
     "Messages": [
-      "Messages.Models.PlaceOrder"
+      "Messages.Models.Commands.PlaceOrder"
     ]
   },
   "Receiving": {
@@ -1274,7 +1274,7 @@
       
     ],
     "MessageHandlers": {
-      "Messages.Models.PlaceOrder": [
+      "Messages.Models.Commands.PlaceOrder": [
         "Sales.Handlers.OrderHandlers"
       ]
     }

@@ -348,3 +348,9 @@ Exception details:
 2024-05-05 09:47:28.974 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
 2024-05-05 09:47:40.890 INFO  Initiating shutdown.
 2024-05-05 09:47:40.896 INFO  Shutdown complete.
+2024-05-05 11:31:52.419 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/MyWorkerService/bin/Debug/net8.0/' with level Info
+2024-05-05 11:31:52.796 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
+2024-05-05 11:34:09.495 INFO  Initiating shutdown.
+2024-05-05 11:34:09.505 INFO  Shutdown complete.
+2024-05-05 11:34:27.387 INFO  Logging to '/Users/guanqunz/Downloads/MyMessageService/MyWorkerService/bin/Debug/net8.0/' with level Info
+2024-05-05 11:34:27.752 INFO  No valid license could be found. Falling back to trial license with start date '2024-05-01'.
