@@ -1440,7 +1440,7 @@
     "ProcessorCount": 10,
     "Is64BitProcess": true,
     "CLRVersion": "8.0.0",
-    "WorkingSet": 94224384,
+    "WorkingSet": 92487680,
     "SystemPageSize": 16384,
     "HostName": "guanqundeMacBook-Pro.local",
     "UserName": "guanqunz",
@@ -1464,9 +1464,9 @@
     "MessageConventions": [
       "NServiceBus Marker Interfaces"
     ],
-    "NumberOfMessagesFoundAtStartup": 1,
+    "NumberOfMessagesFoundAtStartup": 0,
     "Messages": [
-      "Messages.Models.PlaceOrder"
+      
     ]
   },
   "Receiving": {
@@ -1486,9 +1486,7 @@
       
     ],
     "MessageHandlers": {
-      "Messages.Models.PlaceOrder": [
-        "MyWorkerService.Handlers.OrderHandlers"
-      ]
+      
     }
   },
   "Recoverability": {

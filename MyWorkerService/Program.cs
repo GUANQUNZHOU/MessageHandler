@@ -1,4 +1,4 @@
-using Messages.Models;
+using Messages.Models.Commands;
 
 // var builder = Host.CreateApplicationBuilder(args);
 // var endpointConfiguration = new EndpointConfiguration("ClientUI");
@@ -30,7 +30,7 @@ internal static class Program
                     };
 
                     // Send the command to the local endpoint
-                    await endpointInstance.SendLocal(command);
+                    await endpointInstance.Send(command);
 
                     break;
 
@@ -51,6 +51,7 @@ internal static class Program
         endpointConfiguration.UseSerialization<SystemJsonSerializer>();
         var transportExtensions = endpointConfiguration.UseTransport<LearningTransport>();
         var routingSettings = transportExtensions.Routing();
+        routingSettings.RouteToEndpoint(typeof(PlaceOrder),"Sales");
         var endpointInstance = await Endpoint.Start(endpointConfiguration);
 
 // Replace with:

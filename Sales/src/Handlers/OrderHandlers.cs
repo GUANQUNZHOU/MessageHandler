@@ -1,4 +1,4 @@
-using Messages.Models;
+using Messages.Models.Commands;
 using NServiceBus.Logging;
 
 namespace Sales.Handlers;
