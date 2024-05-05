@@ -9,6 +9,10 @@ public class OrderPlacedHandlers:IHandleMessages<OrderPlaced>
     public Task Handle(OrderPlaced message, IMessageHandlerContext context)
     {
         Log.Info($"Received OrderPlaced, OrderId = {message.OrderId} - Charging credit card...");
-        return Task.CompletedTask;
+        var orderBilled = new OrderBilled()
+        {
+            OrderId = Guid.NewGuid().ToString()
+        };
+        return context.Publish(orderBilled);
     }
 }
