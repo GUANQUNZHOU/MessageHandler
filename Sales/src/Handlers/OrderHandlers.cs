@@ -1,4 +1,5 @@
 using Messages.Models.Commands;
+using Messages.Models.Events;
 using NServiceBus.Logging;
 
 namespace Sales.Handlers;
@@ -9,6 +10,13 @@ public class OrderHandlers: IHandleMessages<PlaceOrder>
     public Task Handle(PlaceOrder message, IMessageHandlerContext context)
     {
         Log.Info($"Received PlaceOrder, OrderId = {message.OrderId}");
-        return Task.CompletedTask;
+
+        // This is normally where some business logic would occur
+
+        var orderPlaced = new OrderPlaced
+        {
+            OrderId = message.OrderId
+        };
+        return context.Publish(orderPlaced);
     }
 }

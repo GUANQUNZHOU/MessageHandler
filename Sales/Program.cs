@@ -13,6 +13,7 @@ internal static class Program
         endpointConfiguration.UseSerialization<SystemJsonSerializer>();
 
         var transport = endpointConfiguration.UseTransport<LearningTransport>();
+        
 
         var endpointInstance = await Endpoint.Start(endpointConfiguration);
 
